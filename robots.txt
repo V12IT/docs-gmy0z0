@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-hw5k66.nuansa138.site/sitemap.xml
